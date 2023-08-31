@@ -3,3 +3,5 @@ This project demonstrates my knowledge of ArrayLists and LinkedLists by reading 
 Reads all incorrect records and places them in an ArrayList of Book objects;<br>
 Reads all correct records and puts them in a singular circular linked list of Book Objects.<br>
 Reads all the indexes from the ArrayList and stores them in a file called YearErr.txt._<br>
+
+<br>Please note this was done from my Object-Oriented Programming II course
